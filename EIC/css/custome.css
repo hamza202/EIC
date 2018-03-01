@@ -1,0 +1,147 @@
+.service-icon img{
+    height: 50px;
+}
+#features .vc_column-inner{
+    min-height: 315px;
+    padding-top: 30px;
+}
+#lightSlider li{
+    text-align: center;
+}
+.custom-slideshow-controls span.slick-arrows-next{
+    position: absolute;
+    right: -32px !important;
+}
+.custom-slideshow-controls span.slick-arrows-next i{
+    left: -14px;
+}
+.custom-slideshow-controls span.slick-arrows-prev{
+    right: 15px;
+}
+.custom-slideshow-controls span.slick-arrows-prev i{
+    left: 14px;
+}
+html body .custom-slideshow-controls span{
+    background: #c41430;
+    border-color: #c41430;
+}
+.c-color{
+    color: #135C86;
+}
+.ma-80{
+    margin: 80px 0;
+}
+.ma-50{
+    margin: 50px 0;
+}
+.yamm li a, .header a, .header li{
+    font-size: 12px;
+}
+html .submenu-controll{
+    top: -57px !important;
+}
+.carousel-control span.fa-arrow-left{
+    top: 50%;
+    position: absolute;
+    transform: translateY(-50%);
+    width: 50px;
+    height: 50px;
+    background: #135c86;
+    border-radius: 50%;
+    line-height: 50px;
+    text-align: center;
+    left: 40px;
+}
+.carousel-control span.fa-arrow-right{
+    top: 50%;
+    position: absolute;
+    transform: translateY(-50%);
+    width: 50px;
+    height: 50px;
+    background: #135c86;
+    border-radius: 50%;
+    line-height: 50px;
+    text-align: center;
+    right: 40px;
+}
+.carousel-control{
+    opacity: 0.7;
+}
+
+/*
+inspired from http://codepen.io/Rowno/pen/Afykb
+& https://jsfiddle.net/q0rgL8ws/
+*/
+.carousel-fade .carousel-inner .item {
+    opacity: 0;
+    transition-property: opacity;
+    overflow:hidden;
+}
+.item.active img {
+    transition: transform 7000ms linear 0s;
+    /* This should be based on your carousel setting. For bs, it should be 5second*/
+    transform: scale(1.1, 1.1);
+}
+.carousel-fade .carousel-inner .active {
+    opacity: 1;
+}
+
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+}
+
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+    opacity: 1;
+}
+
+.carousel-fade .carousel-control {
+    z-index: 2;
+}
+
+/*
+WHAT IS NEW IN 3.3: "Added transforms to improve carousel performance in modern browsers."
+now override the 3.3 new styles for modern browsers & apply opacity
+*/
+@media all and (transform-3d), (-webkit-transform-3d) {
+    .carousel-fade .carousel-inner > .item.next,
+    .carousel-fade .carousel-inner > .item.active.right {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.prev,
+    .carousel-fade .carousel-inner > .item.active.left {
+        opacity: 0;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.next.left,
+    .carousel-fade .carousel-inner > .item.prev.right,
+    .carousel-fade .carousel-inner > .item.active {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+.carousel-caption{
+    top:37%;
+    transform: translateX(-50%);
+    left: 50%;
+    text-align: left;
+
+    width: 74%;
+}
+.carousel h3{
+
+}
+.carousel p{
+   width: 80%;
+    color: #e2e2e2;
+    font-size: 18px;
+}
+.nav-tabs-vertical li img{
+    width: 29px;}
