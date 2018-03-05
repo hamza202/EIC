@@ -29,8 +29,12 @@
     </button>
     <ul id="menu-main" class="yamm main-menu nav navbar-nav">
         <li id="menu-item-10068"
+            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9812 current_page_item current-menu-ancestor  current_page_parent current_page_ancestor  menu-item-10068 dropdown">
+            <a href="index.php">Get a Quote </a><span class="menu-parent-link"></span>
+        </li>
+        <li id="menu-item-10068"
             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9812 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-10068 dropdown">
-            <a href="index.html">Home</a><span class="menu-parent-link"></span>
+            <a href="index.php">Home</a><span class="menu-parent-link"></span>
         </li>
         <li id="menu-item-8522"
             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8522 dropdown">
@@ -68,13 +72,17 @@
         </li>
         <li id="menu-item-282"
             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-282 dropdown">
-            <a href="">Investor Relations</a><span
+            <a href="investor.php">Investor Relations</a><span
                 class="menu-parent-link"></span>
         </li>
         <li id="menu-item-3233"
             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3233 dropdown">
             <a href="">Subsidiaries</a><span class="menu-parent-link"></span>
         </li>
+        <li id="menu-item-11681"
+            class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-11681 dropdown"><a
+                    href="">media center</a><span
+                    class="menu-parent-link"></span></li>
         <li id="menu-item-11681"
             class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-11681 dropdown"><a
                 href="">Products & Services</a><span
@@ -87,6 +95,11 @@
             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3234 dropdown"><a
                 href=""> CAREERS </a><span
                 class="menu-parent-link"></span>
+        </li>
+        <li id="menu-item-3234"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3234 dropdown"><a
+                    href="">Support</a><span
+                    class="menu-parent-link"></span>
         </li>
         <li id="menu-item-3234"
             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3234 dropdown"><a
@@ -106,6 +119,9 @@
         <div id="dl-menu" class="dl-menuwrapper">
             <ul id="menu-main-1" class="dl-menu menu-item list-unstyled">
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8522 has-children">
+                    <a href="#"><span>Clients<i class="arrow_carrot-right"></i></span></a>
+                </li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8522 has-children">
                     <a href="#"><span>NEWS & EVENTS<i class="arrow_carrot-right"></i></span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8063 has-children">
@@ -115,6 +131,12 @@
                             <a href="#"><span>TRAINING PROGRAM<i class="arrow_carrot-right"></i></span></a>
                         </li>
                     </ul>
+                </li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8522 has-children">
+                    <a href="#"><span>Subsidiaries<i class="arrow_carrot-right"></i></span></a>
+                </li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8522 has-children">
+                    <a href="#"><span>Support<i class="arrow_carrot-right"></i></span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8522 has-children">
                     <a href="#"><span>Contact Us<i class="arrow_carrot-right"></i></span></a>
@@ -172,14 +194,14 @@
                         </button>
                         </li>
 
-                        <li class="no-hover header-phone">call us +966 13 8100 0280</li>
+                        <li class="no-hover header-phone"><a href="#" class="btn btn-primary git-quta ">Get a quote</a></li>
 
                     </ul>
                 </div>
                 <div class="header-navibox-2">
                     <ul id="menu-main-2" class="yamm main-menu nav navbar-nav  menu-marker-arrow">
                         <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9812 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-10068 dropdown">
-                            <a href="index.html">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8522 dropdown">
                             <a href="">About</a><span
@@ -189,6 +211,20 @@
                                     <a href="about.php">Overview</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8587 dropdown">
                                     <a href="about2.php">History</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8063 dropdown">
+                            <a href="">Vendors</a><span class="menu-parent-link"></span>
+                            <ul class="dropdown-menu">
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8990 dropdown">
+                                    <a href="tenders.php">Tenders</a>
+                                </li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7673 dropdown">
+                                    <a href="new-vendors.php">New Vendors</a>
+                                </li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7673 dropdown">
+                                    <a href="">Current Vendors</a>
                                 </li>
                             </ul>
                         </li>
@@ -207,7 +243,7 @@
                             </ul>
                         </li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-282 dropdown">
-                            <a href="">Investor Relations</a><span
+                            <a href="investor.php">Investor Relations</a><span
                                 class="menu-parent-link"></span>
                             <ul class="dropdown-menu">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7642 dropdown">
@@ -245,15 +281,13 @@
                             </ul>
                         </li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3233 dropdown">
-                            <a href="blog/">Subsidiaries</a>
+                            <a href="">Media Center</a>
                         </li>
 
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3234 dropdown">
-                            <a href="contact/">Products & Services</a><span
+                            <a href="">Products & Services</a><span
                                 class="menu-parent-link"></span></li>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3234 dropdown">
-                            <a href="contact/">Clients</a><span
-                                class="menu-parent-link"></span></li>
+
                     </ul>
                 </div>
             </div>

@@ -3,6 +3,8 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8"/><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>EIC</title>
 
     <style type="text/css">
@@ -314,7 +316,7 @@
                 </div>
 
                 <div class="item">
-                    <img src="images/s1256771.jpg" alt="Chicago">
+                    <img src="images/home-bg-header3.jpg" alt="Chicago">
                     <div class="carousel-caption hidden-sm hidden-xs">
                         <h3 class="foo">Test Header 2</h3>
                         <p class="twoo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium amet
@@ -326,7 +328,7 @@
                 </div>
 
                 <div class="item">
-                    <img src="images/s1256771.jpg" alt="New York">
+                    <img src="images/m58.jpg" alt="New York">
                     <div class="carousel-caption hidden-sm hidden-xs">
                         <h3 class="foo">Test Header 3</h3>
                         <p class="twoo"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit
@@ -653,7 +655,7 @@
                     <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
                             <div class="text-center spl-title">
-                                <p class="subhead">Creatica Gallery</p>
+<!--                                <p class="subhead"> Project</p>-->
                                 <h2>Our Project</h2>
                                 <h4>Sed condimentum ante ac quam varius pretium. Nunc laoreet augue et elementum.
                                     Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna

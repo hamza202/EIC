@@ -301,21 +301,24 @@
 <!-- Top header -->
 <!-- ========================== -->
 <section class="header-section" style="background-image:url(
-		http://wpsparrow.com/wordpress/creatica/wp-content/uploads/2017/01/heading-background.jpg	);" >
+		images/heading-background.jpg);" >
 		<span class="vc_row-overlay"></span>
 	<div class="container">
 	    <div class="row">
 	        <div class="col-md-12">
 		        <div class="page-title-box">
-		            		            <div class="ui-title-page ">
-		                <h1>
-																		Agatha Christie										        </h1>
-					    				            <span class="subtitle">WEBDESIGNER &amp; ILLUSTRATOR</span>
-				        				    </div>
-				    
-				    		            <div class="breadcrumbs ">
-		                <nav class="woocommerce-breadcrumb"><a href="http://wpsparrow.com/wordpress/creatica">Home</a>&nbsp;&#47;&nbsp;Agatha Christie</nav>		            </div>
-		            	            </div>
+                    <div class="ui-title-page ">
+                        <h1>
+                            Agatha Christie </h1>
+                        <span class="subtitle">WEBDESIGNER &amp; ILLUSTRATOR</span>
+                    </div>
+
+                    <div class="breadcrumbs ">
+                        <nav class="woocommerce-breadcrumb"><a href="http://wpsparrow.com/wordpress/creatica">Home</a>&nbsp;&#47;&nbsp;Agatha
+                            Christie
+                        </nav>
+                    </div>
+                </div>
 	        </div>
 	    </div>
 	</div>

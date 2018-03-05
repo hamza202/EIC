@@ -14,29 +14,19 @@
       <file leaf-file-name="custome.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EIC/css/custome.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="129" column="18" lean-forward="false" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
+            <state relative-caret-position="8460">
+              <caret line="470" column="23" lean-forward="false" selection-start-line="470" selection-start-column="23" selection-end-line="470" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EIC/about2.php">
+      <file leaf-file-name="get-quote.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EIC/get-quote.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-104">
-              <caret line="416" column="34" lean-forward="false" selection-start-line="416" selection-start-column="34" selection-end-line="416" selection-end-column="34" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1519922464171" expanded="true" signature="30374:30380" ph=" " />
-                <marker date="1519922464171" expanded="true" signature="30380:30386" ph=" " />
-                <marker date="1519922464171" expanded="true" signature="30386:30392" ph=" " />
-                <marker date="1519922464171" expanded="true" signature="30546:30552" ph=" " />
-                <marker date="1519922464171" expanded="true" signature="30552:30558" ph=" " />
-                <marker date="1519922464171" expanded="true" signature="30558:30564" ph=" " />
-                <marker date="1519922464171" expanded="true" signature="30656:30685" ph="..." />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -44,11 +34,31 @@
       <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EIC/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9943">
-              <caret line="358" column="23" lean-forward="true" selection-start-line="358" selection-start-column="23" selection-end-line="358" selection-end-column="23" />
+            <state relative-caret-position="162">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding>
-                <marker date="1519921816102" expanded="true" signature="14432:14575" ph="..." />
+                <marker date="1520243544642" expanded="true" signature="14508:14651" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tenders.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EIC/tenders.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="investor.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EIC/investor.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6012">
+              <caret line="334" column="44" lean-forward="true" selection-start-line="334" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,28 +66,28 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EIC/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4034">
+            <state relative-caret-position="7146">
               <caret line="397" column="9" lean-forward="false" selection-start-line="397" selection-start-column="9" selection-end-line="397" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EIC/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="184" column="43" lean-forward="false" selection-start-line="184" selection-start-column="43" selection-end-line="184" selection-end-column="43" />
+            <state relative-caret-position="3870">
+              <caret line="215" column="29" lean-forward="true" selection-start-line="215" selection-start-column="29" selection-end-line="215" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings8ab9.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/css/settings8ab9.css">
+      <file leaf-file-name="new-vendors.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EIC/new-vendors.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27144">
-              <caret line="1508" column="40" lean-forward="false" selection-start-line="1508" selection-start-column="40" selection-end-line="1508" selection-end-column="40" />
+            <state relative-caret-position="5634">
+              <caret line="314" column="92" lean-forward="false" selection-start-line="314" selection-start-column="92" selection-end-line="314" selection-end-column="92" />
               <folding />
             </state>
           </provider>
@@ -86,20 +96,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EIC/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="2014" column="9" lean-forward="false" selection-start-line="2014" selection-start-column="9" selection-end-line="2014" selection-end-column="9" />
+            <state relative-caret-position="11826">
+              <caret line="657" column="63" lean-forward="false" selection-start-line="657" selection-start-column="63" selection-end-line="657" selection-end-column="63" />
               <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1519921714570" expanded="true" signature="139161:139167" ph=" " />
-                <marker date="1519921714570" expanded="true" signature="139167:139173" ph=" " />
-                <marker date="1519921714570" expanded="true" signature="139173:139179" ph=" " />
-                <marker date="1519921714570" expanded="true" signature="139333:139339" ph=" " />
-                <marker date="1519921714570" expanded="true" signature="139339:139345" ph=" " />
-                <marker date="1519921714570" expanded="true" signature="139345:139351" ph=" " />
-                <marker date="1519921714570" expanded="true" signature="139443:139472" ph="..." />
-                <marker date="1519921714570" expanded="true" signature="143664:143679" ph="..." />
-                <marker date="1519921714570" expanded="true" signature="143887:143902" ph="..." />
+                <marker date="1520244292030" expanded="true" signature="139238:139244" ph=" " />
+                <marker date="1520244292030" expanded="true" signature="139244:139250" ph=" " />
+                <marker date="1520244292030" expanded="true" signature="139250:139256" ph=" " />
+                <marker date="1520244292030" expanded="true" signature="139410:139416" ph=" " />
+                <marker date="1520244292030" expanded="true" signature="139416:139422" ph=" " />
+                <marker date="1520244292030" expanded="true" signature="139422:139428" ph=" " />
+                <marker date="1520244292030" expanded="true" signature="139520:139549" ph="..." />
+                <marker date="1520244292030" expanded="true" signature="143741:143756" ph="..." />
+                <marker date="1520244292030" expanded="true" signature="143964:143979" ph="..." />
               </folding>
             </state>
           </provider>
@@ -109,44 +117,48 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>features</find>
-      <find>Duis gravidaTransformers</find>
-      <find>High Voltage Equipment</find>
-      <find>rgb(54, 181, 115</find>
-      <find>admin-aj</find>
-      <find>#27ae60</find>
-      <find>rgb(87, 170, 103)</find>
-      <find>vc_custom_1496074132577</find>
-      <find>What Clients Say?</find>
-      <find>lightSlider</find>
-      <find>341d</find>
-      <find>custome</find>
-      <find>e88f41</find>
-      <find>Started Now</find>
-      <find>bootstr</find>
-      <find>css/</find>
-      <find>footer-section.png</find>
-      <find>wow.</find>
-      <find>web</find>
-      <find>car</find>
       <find>forms</find>
       <find>chart</find>
       <find>vc_shortcodes-custom-cssvc_shortcodes-custom-css</find>
-      <find>Subsidiaries</find>
       <find>Professional Work</find>
       <find>meta</find>
       <find>png</find>
       <find>footer</find>
       <find>abou</find>
       <find>Pellentesque dictum nunc a libero scelerisque</find>
+      <find>s1256771.jpg</find>
+      <find>index.html</find>
+      <find>* + .line-chart-legend</find>
+      <find>Investor Relations</find>
+      <find>Clients</find>
+      <find>aja</find>
+      <find>html .yamm .dropdown-menu &gt; li &gt; a:hover</find>
+      <find>Purchases</find>
+      <find>filter-tenders</find>
+      <find>tenderss</find>
+      <find>.tenderss .nav-tabs &gt; li.active &gt; a, .nav-tabs &gt; li.active &gt; a:hover, .nav-tabs &gt; li.active &gt; a:focus</find>
+      <find>.tenderss</find>
+      <find>.tenderss .nav-tabs &gt; li</find>
+      <find>pagination</find>
+      <find>Subsidiaries</find>
+      <find>Subsidiariesmedia center</find>
+      <find>Deadline for receiving offers</find>
+      <find>CAREERS</find>
+      <find>CREATICA GALLERY</find>
+      <find>New Vendors</find>
+      <find>.tenderss .tender-list-item .fa</find>
     </findStrings>
     <replaceStrings>
       <replace>#135C86</replace>
       <replace>c41430</replace>
+      <replace>index.php</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Hamza\Desktop\kkkk\word\wpsparrow.com\wordpress\creatica</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -158,13 +170,19 @@
         <option value="$PROJECT_DIR$/corporate/index.html" />
         <option value="C:/../../sensation/index.html" />
         <option value="$PROJECT_DIR$/EIC/index.html" />
-        <option value="$PROJECT_DIR$/EIC/css/custome.css" />
         <option value="$PROJECT_DIR$/EIC/footer.php" />
         <option value="$PROJECT_DIR$/EIC/about.html" />
-        <option value="$PROJECT_DIR$/EIC/index.php" />
-        <option value="$PROJECT_DIR$/EIC/about.php" />
-        <option value="$PROJECT_DIR$/EIC/header.php" />
         <option value="$PROJECT_DIR$/EIC/about2.php" />
+        <option value="$PROJECT_DIR$/EIC/css/admin-ajax.css" />
+        <option value="$PROJECT_DIR$/../wescosa4/Tenders.php" />
+        <option value="$USER_HOME$/Desktop/kkkk/tttt/monafasat.etimad.sa/tenders/index/tender-type/direct-invitation.html" />
+        <option value="$PROJECT_DIR$/EIC/tenders.php" />
+        <option value="$PROJECT_DIR$/EIC/about.php" />
+        <option value="$PROJECT_DIR$/EIC/investor.php" />
+        <option value="$PROJECT_DIR$/EIC/index.php" />
+        <option value="$PROJECT_DIR$/EIC/header.php" />
+        <option value="$PROJECT_DIR$/EIC/new-vendors.php" />
+        <option value="$PROJECT_DIR$/EIC/css/custome.css" />
       </list>
     </option>
   </component>
@@ -176,11 +194,12 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-73" />
+    <option name="y" value="99" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="747" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -196,6 +215,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,8 +233,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,24 +266,28 @@
       <updated>1519806830617</updated>
       <workItem from="1519806841825" duration="24600000" />
       <workItem from="1519892051116" duration="17569000" />
-      <workItem from="1519919373082" duration="3135000" />
+      <workItem from="1519919373082" duration="4273000" />
+      <workItem from="1520067895147" duration="14017000" />
+      <workItem from="1520085303171" duration="1127000" />
+      <workItem from="1520148408811" duration="2026000" />
+      <workItem from="1520237325543" duration="760000" />
+      <workItem from="1520240121582" duration="18238000" />
+      <workItem from="1520261177098" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45304000" />
+    <option name="totallyTimeSpent" value="82621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17423134" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17423134" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -274,29 +297,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17423134" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -319,11 +323,157 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2232">
+          <caret line="124" column="73" lean-forward="false" selection-start-line="124" selection-start-column="73" selection-end-line="124" selection-end-column="73" />
+          <folding>
+            <marker date="1520243544642" expanded="true" signature="14508:14651" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/css/admin-ajax.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9432">
+          <caret line="524" column="18" lean-forward="false" selection-start-line="524" selection-start-column="18" selection-end-line="524" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/tenders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17910">
+          <caret line="995" column="39" lean-forward="false" selection-start-line="995" selection-start-column="39" selection-end-line="995" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wescosa4/css/stylead21.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/kkkk/tttt/monafasat.etimad.sa/tenders/index/tender-type/direct-invitation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7146">
+          <caret line="397" column="9" lean-forward="false" selection-start-line="397" selection-start-column="9" selection-end-line="397" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3726">
+          <caret line="207" column="62" lean-forward="false" selection-start-line="207" selection-start-column="62" selection-end-line="207" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39168">
+          <caret line="2176" column="31" lean-forward="false" selection-start-line="2176" selection-start-column="31" selection-end-line="2176" selection-end-column="31" />
+          <folding>
+            <marker date="1520244292030" expanded="true" signature="139238:139244" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139244:139250" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139250:139256" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139410:139416" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139416:139422" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139422:139428" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139520:139549" ph="..." />
+            <marker date="1520244292030" expanded="true" signature="143741:143756" ph="..." />
+            <marker date="1520244292030" expanded="true" signature="143964:143979" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/css/custome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2322">
+          <caret line="129" column="18" lean-forward="false" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6444">
+          <caret line="358" column="23" lean-forward="true" selection-start-line="358" selection-start-column="23" selection-end-line="358" selection-end-column="23" />
+          <folding>
+            <marker date="1520243544642" expanded="true" signature="14508:14651" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7146">
+          <caret line="397" column="9" lean-forward="false" selection-start-line="397" selection-start-column="9" selection-end-line="397" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="105" lean-forward="true" selection-start-line="26" selection-start-column="105" selection-end-line="26" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/css/settings8ab9.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27144">
           <caret line="1508" column="40" lean-forward="false" selection-start-line="1508" selection-start-column="40" selection-end-line="1508" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5436">
+          <caret line="302" column="41" lean-forward="true" selection-start-line="302" selection-start-column="41" selection-end-line="302" selection-end-column="41" />
+          <folding>
+            <marker date="1520244292030" expanded="true" signature="139238:139244" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139244:139250" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139250:139256" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139410:139416" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139416:139422" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139422:139428" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139520:139549" ph="..." />
+            <marker date="1520244292030" expanded="true" signature="143741:143756" ph="..." />
+            <marker date="1520244292030" expanded="true" signature="143964:143979" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/about2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5454">
+          <caret line="303" column="42" lean-forward="true" selection-start-line="303" selection-start-column="42" selection-end-line="303" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/css/custome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/revslider/public/assets/css/settings8ab9.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27144">
+          <caret line="1508" column="40" lean-forward="false" selection-start-line="1508" selection-start-column="40" selection-end-line="1508" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -338,7 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27144">
           <caret line="1508" column="40" lean-forward="false" selection-start-line="1508" selection-start-column="40" selection-end-line="1508" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -361,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27144">
           <caret line="1508" column="40" lean-forward="false" selection-start-line="1508" selection-start-column="40" selection-end-line="1508" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -394,14 +542,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EIC/css/custome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="129" column="18" lean-forward="false" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EIC/index.html" />
     <entry file="file://$PROJECT_DIR$/EIC/images/bg-map.png">
       <provider selected="true" editor-type-id="images">
@@ -412,70 +552,131 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="1163" column="27" lean-forward="true" selection-start-line="1163" selection-start-column="27" selection-end-line="1163" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EIC/index.php">
+    <entry file="file://$PROJECT_DIR$/EIC/about2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="2014" column="9" lean-forward="false" selection-start-line="2014" selection-start-column="9" selection-end-line="2014" selection-end-column="9" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1519921714570" expanded="true" signature="139161:139167" ph=" " />
-            <marker date="1519921714570" expanded="true" signature="139167:139173" ph=" " />
-            <marker date="1519921714570" expanded="true" signature="139173:139179" ph=" " />
-            <marker date="1519921714570" expanded="true" signature="139333:139339" ph=" " />
-            <marker date="1519921714570" expanded="true" signature="139339:139345" ph=" " />
-            <marker date="1519921714570" expanded="true" signature="139345:139351" ph=" " />
-            <marker date="1519921714570" expanded="true" signature="139443:139472" ph="..." />
-            <marker date="1519921714570" expanded="true" signature="143664:143679" ph="..." />
-            <marker date="1519921714570" expanded="true" signature="143887:143902" ph="..." />
-          </folding>
+        <state relative-caret-position="5238">
+          <caret line="291" column="0" lean-forward="false" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EIC/footer.php">
+    <entry file="file://$USER_HOME$/Desktop/kkkk/tttt/monafasat.etimad.sa/skin/css/ar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4034">
-          <caret line="397" column="9" lean-forward="false" selection-start-line="397" selection-start-column="9" selection-end-line="397" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wescosa4/Tenders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="640" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/css/admin-ajax.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="524" column="18" lean-forward="false" selection-start-line="524" selection-start-column="18" selection-end-line="524" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wescosa4/css/stylead21.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/kkkk/tttt/monafasat.etimad.sa/tenders/index/tender-type/direct-invitation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/tenders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EIC/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9943">
-          <caret line="358" column="23" lean-forward="true" selection-start-line="358" selection-start-column="23" selection-end-line="358" selection-end-column="23" />
+        <state relative-caret-position="162">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding>
-            <marker date="1519921816102" expanded="true" signature="14432:14575" ph="..." />
+            <marker date="1520243544642" expanded="true" signature="14508:14651" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EIC/about2.php">
+    <entry file="file://$PROJECT_DIR$/EIC/css/custome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-104">
-          <caret line="416" column="34" lean-forward="false" selection-start-line="416" selection-start-column="34" selection-end-line="416" selection-end-column="34" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1519922464171" expanded="true" signature="30374:30380" ph=" " />
-            <marker date="1519922464171" expanded="true" signature="30380:30386" ph=" " />
-            <marker date="1519922464171" expanded="true" signature="30386:30392" ph=" " />
-            <marker date="1519922464171" expanded="true" signature="30546:30552" ph=" " />
-            <marker date="1519922464171" expanded="true" signature="30552:30558" ph=" " />
-            <marker date="1519922464171" expanded="true" signature="30558:30564" ph=" " />
-            <marker date="1519922464171" expanded="true" signature="30656:30685" ph="..." />
-          </folding>
+        <state relative-caret-position="8460">
+          <caret line="470" column="23" lean-forward="false" selection-start-line="470" selection-start-column="23" selection-end-line="470" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/investor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6012">
+          <caret line="334" column="44" lean-forward="true" selection-start-line="334" selection-start-column="0" selection-end-line="335" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7146">
+          <caret line="397" column="9" lean-forward="false" selection-start-line="397" selection-start-column="9" selection-end-line="397" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EIC/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="184" column="43" lean-forward="false" selection-start-line="184" selection-start-column="43" selection-end-line="184" selection-end-column="43" />
+        <state relative-caret-position="3870">
+          <caret line="215" column="29" lean-forward="true" selection-start-line="215" selection-start-column="29" selection-end-line="215" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/new-vendors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5634">
+          <caret line="314" column="92" lean-forward="false" selection-start-line="314" selection-start-column="92" selection-end-line="314" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11826">
+          <caret line="657" column="63" lean-forward="false" selection-start-line="657" selection-start-column="63" selection-end-line="657" selection-end-column="63" />
+          <folding>
+            <marker date="1520244292030" expanded="true" signature="139238:139244" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139244:139250" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139250:139256" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139410:139416" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139416:139422" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139422:139428" ph=" " />
+            <marker date="1520244292030" expanded="true" signature="139520:139549" ph="..." />
+            <marker date="1520244292030" expanded="true" signature="143741:143756" ph="..." />
+            <marker date="1520244292030" expanded="true" signature="143964:143979" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EIC/get-quote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

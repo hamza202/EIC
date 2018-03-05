@@ -145,3 +145,406 @@ now override the 3.3 new styles for modern browsers & apply opacity
 }
 .nav-tabs-vertical li img{
     width: 29px;}
+.mt-50{
+    margin-top: 50px;
+}
+.start-section{
+    padding: 80px 0;
+}
+.mt--120px{
+    margin-top: -120px;
+}
+.investor{
+    background-color: #f7f8fa !important;
+}
+
+.line-chart-legend {
+    position: relative;
+    transform: translate3d(0, -5px, 0);
+    margin-bottom: -5px;
+    margin-right: -10px;
+}
+.line-chart-legend li {
+    display: inline-block;
+    font-weight: 500;
+    color: #151515;
+}
+.line-chart-legend > * {
+    position: relative;
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.line-chart-legend li *:not(:last-child) {
+    margin-right: 8px;
+}
+.list-legend__mark {
+    display: inline-block;
+    width: 43px;
+    height: 3px;
+    vertical-align: middle;
+}
+.tenderss .main-container {
+    background-color: #f9f9f9;
+    border: 1px solid #cdcdcd;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+.tenderss .filter-tenders {
+    margin-left: inherit;
+    margin-right: -1rem;
+    border-width: 0 0 1px 1px;
+}
+.tenderss .filter-tenders label:first-child {
+    width: 100%;
+    max-width: none;
+}
+.tenderss .filter-tenders .aside-title {
+    background-color: #135c86;
+}
+.tenderss .filter-tenders .aside-title {
+    margin: 0 -15px 1rem;
+    background-color: #135c86;
+    padding: 1rem;
+    color: #fff;
+}
+.tenderss .filter-tenders .aside-title .fa {
+    font-size: 1.4rem;
+}
+.tenderss .fa.fa-pull-left, .fa.pull-left {
+    margin-right: .3em;
+}
+.tenderss .filter-container .nav-tabs {
+    background-color: #135c86;
+}
+.tenderss .nav {
+    padding: 0;
+    margin: 0;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    list-style: none;
+}
+.tenderss .nav:after, .nav:before {
+    display: table;
+    content: " ";
+}
+.tenderss .calendars table td, .nav > li > a, .socialIcons, .socialIcons .fa {
+    text-align: center;
+}
+.tenderss .filter-tenders, .filter-tenders .nav-tabs > li.active {
+    background-color: #f2f2f2;
+}
+.tenderss .nav-tabs > li.active {
+    cursor: default;
+    color: inherit;
+    background-color: #f9f9f9;
+    border-bottom-color: transparent;
+    margin-top: 1px;
+    margin-right: 1px;
+}
+
+
+.tenderss label.no_old_tenders {
+    font-size: 13px;
+}
+.tenderss label {
+    font-weight: 400;
+}
+.tenderss ul#tenders-inner-page li {
+    padding: 0;
+}
+.tenderss .nav-tabs > li {
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+    width: auto;
+    margin-bottom: -1px;
+    color: #fff;
+    box-shadow: -1px 0 0 rgba(0, 0, 0, .15);
+    font-family: BahijTheSansArabic-SemiBold;
+    padding: 10px 15px;
+}
+.tenderss ul#tenders-inner-page li a {
+    cursor: pointer;
+    width: 100%;
+}
+.tenderss .nav-tabs > li > a {
+    border-radius: 0;
+    padding: 10px 11px;
+}
+.tenderss .nav > li > a {
+    position: relative;
+    display: block;
+    color: #fff;
+}
+.tenderss .nav-tabs > li.active > a,.tenderss .nav-tabs > li.active > a:hover,.tenderss .nav-tabs > li.active > a:focus {
+    color: #555;
+    cursor: default;
+    background-color: #fff !important;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+.mt-10 {
+    margin-top: 10px;
+}
+.tenderss .form-group {
+    margin-bottom: 15px;
+}
+.tenderss .btn, button, input[type=button],.tenderss input[type=submit],.tenderss input[type=reset] {
+    display: inline-block;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    line-height: 2.2rem;
+    cursor: pointer;
+    border: 1px solid transparent;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #fff;
+    font-family: inherit;
+    background-color: #135c86;
+    transition: all .8s ease-in-out;
+}
+.tenderss input[type=password],.tenderss input[type=text],.tenderss input[type=email],.tenderss select,.tenderss textarea {
+    display: block;
+    border-radius: 0;
+    width: 100%;
+    min-height: 2.5em;
+    font-family: inherit;
+    padding: 6px 12px;
+    background-color: #fff;
+    border: 1px solid #c3c3c3;
+    position: relative;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.tenderss button,.tenderss input {
+    line-height: normal;
+}
+.tenderss .divider {
+    margin-top: 0;
+    margin-bottom: 0;
+    border: none;
+    height: 1px;
+    width: 100%;
+    background-color: #f5f5f5;
+}
+.filter-tenders .group-btn input[type=submit] {
+    -ms-flex: 1 !important;
+    flex: 1 !important;
+}
+.tenderss .group-btn input[type=submit]{
+    border-left: 1px solid #fff;
+    border-right-width: 0;
+}
+.tenderss input[type=submit]:not(.list-group-item) {
+    padding: 6px 12px;
+}
+.tenderss .btn-group,.tenderss .group-btn {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+.tenders-list {
+    padding-left: 0;
+    padding-right: inherit;
+}
+
+
+
+
+.tenderss .nav > li > a:hover{
+    color: #fff;
+}
+
+
+
+
+.tender-list-item {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    border-width: 0 0 1px 1px;
+    border-color: #d7d6d6;
+    border-style: solid;
+    background-color: #fff;
+    margin-bottom: 1.5rem;
+}
+.tenderss .one {
+    width: 75%;
+    display: flex;
+}
+.tenderss .one,.tenderss .three-in,.tenderss .tow-in {
+    border-top: 1px solid #d7d6d6;
+    border-right: 1px solid #d7d6d6;
+    padding: .3rem 1rem;
+    font-size: 15px;
+}
+.gov-logo-home {
+    background-size: 50% 50%;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: baseline;
+    padding: 5px;
+    -ms-flex: none;
+    flex: none;
+}
+.gov-logo-home {
+    align-self: baseline;
+}
+.tender-list-item h3 {
+    color: #2c89b7;
+}
+.tenderss h4{
+    font-weight: 500;
+    font-size: 16px;
+    font-family: inherit;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.tenderss .tow {
+    width: 25%;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+.tender-list-item .label-title {
+    color: #135c86;
+    display: block;
+}
+.tenderss .three {
+    width: 100%;
+    display: -ms-flexbox;
+    display: flex;
+}
+.tenderss .three-in {
+    font-size: 13px;
+}
+.tenderss .three-in {
+    width: 25%;
+    background-color: #f9f9f9;
+}
+.tenderss .tender-list-item .fa{
+    margin-left: 0;
+    margin-right: 15px;
+}
+.tenderss .pagination{
+    width: auto;
+}
+.tenderss .pagination a:hover{
+    color: #fff;
+}
+.tenderss input[type="date"]{
+    width: 100%;
+}
+.investor-section .btn-primary{
+    background: #135c86 ;
+    color: #fff;
+}
+a.btn-primary:hover{
+    cursor: pointer !important;
+}
+a.git-quta{
+    background: #fff;
+    color: #333 !important;
+    border-radius: 31px !important;
+    padding: 5px 11px !important;
+    margin-top: -6px !important;
+}
+
+.navbar .navbar-nav > li.active > a.git-quta, .navbar .navbar-nav > li:hover > a.git-quta{
+    background: #135C86 !important;
+    color: #fff !important;
+}
+.new-vendor input::placeholder,
+.new-vendor textarea::placeholder{
+    color: #135C86 ;
+}
+.new-vendor input::-moz-placeholder,
+.new-vendor textarea::-moz-placeholder{
+    color: #135C86 ;
+}
+.new-vendor input,
+.new-vendor select{
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-top: 7px;
+    color: #333;
+    background: none;
+    box-shadow: none !important;
+    outline: none;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 400;
+    width: 100%;
+}
+.new-vendor h6{
+    padding-left: 3px;
+}
+.new-vendor input[type="email"]{
+    padding-top: 0 !important;
+}
+.new-vendor input.file-uplaod{
+    height: 40px;
+}
+.new-vendor span.browse-up{
+    background:#135C86 ;
+    color: #fff ;
+}
+.new-vendor label{
+    padding-left: 3px;
+}
+.new-vendor textarea{
+    background: transparent;
+}
+.new-vendor button.btn-primary{
+    background: #135c86;
+    color: #fff;
+}
+@media (max-width: 991px) {
+    .three {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 991px) {
+    .tenderss .one,.tenderss .tow {
+        width: 100%;
+    }
+}
+@media (max-width: 991px) {
+    .tenderss .three-in {
+        width: calc(100% / 3);
+    }
+}
+@media (max-width: 768px) {
+    .tenderss   div.three-in {
+        width: 100%;
+    }
+    .tender-list-item .label-title{
+    font-size: 15px;
+    }
+    .tender-list-item h3 {
+        font-size: 21px;
+    }
+    .carousel-inner>.item>a>img, .carousel-inner>.item>img{
+        height: 50vh;
+        width: 100%;
+    }
+    .header .navbar-brand img{
+        height: 60px;
+    }
+}
+@media (min-width: 768px) {
+    .new-vendor textarea{
+        min-height: 203px;
+    }
+}
