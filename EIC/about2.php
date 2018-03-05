@@ -309,12 +309,12 @@
 		        <div class="page-title-box">
                     <div class="ui-title-page ">
                         <h1>
-                            Agatha Christie </h1>
-                        <span class="subtitle">WEBDESIGNER &amp; ILLUSTRATOR</span>
+                            History </h1>
+
                     </div>
 
                     <div class="breadcrumbs ">
-                        <nav class="woocommerce-breadcrumb"><a href="http://wpsparrow.com/wordpress/creatica">Home</a>&nbsp;&#47;&nbsp;Agatha
+                        <nav class="woocommerce-breadcrumb"><a href="#">Home</a>&nbsp;&#47;&nbsp;About&#47;&nbsp;History
                             Christie
                         </nav>
                     </div>

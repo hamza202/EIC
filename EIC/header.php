@@ -181,7 +181,7 @@
                         <!--<li class="header-search-icon"><a class="btn_header_search" href="#"><i-->
                         <!--class="fa fa-search"></i></a></li>-->
 
-                        <!--<li>-->
+                        <li>
                         <button class=" js-toggle-screen toggle-menu-button ">
                             <span class="toggle-menu-button-icon">
                             <span></span>
@@ -194,7 +194,7 @@
                         </button>
                         </li>
 
-                        <li class="no-hover header-phone"><a href="#" class="btn btn-primary git-quta ">Get a quote</a></li>
+                        <li class="no-hover header-phone"><a href="get-quote.php" class="btn btn-primary git-quta ">Get a quote</a></li>
 
                     </ul>
                 </div>

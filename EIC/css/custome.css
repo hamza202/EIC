@@ -488,6 +488,7 @@ a.git-quta{
 }
 .new-vendor h6{
     padding-left: 3px;
+    margin-top: 10px;
 }
 .new-vendor input[type="email"]{
     padding-top: 0 !important;

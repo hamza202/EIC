@@ -306,13 +306,12 @@
                     <div class="page-title-box">
                         <div class="ui-title-page ">
                             <h1>
-                                New Vendor </h1>
+                                Get Quote </h1>
 
                         </div>
 
                         <div class="breadcrumbs ">
-                            <nav class="woocommerce-breadcrumb"><a
-                                        href="index.php">Home</a>&nbsp;&#47;&nbsp;New Vendor
+                            <nav class="woocommerce-breadcrumb">&nbsp;&#47;&nbsp;Get Quote
                             </nav>
                         </div>
                     </div>
@@ -385,47 +384,32 @@
                                        id="c-Number" required>
                             </div>
                         </div>
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                                <label for="c-Number">Email:</label>
-                                <input type="email" minlength="3" maxlength="30" placeholder="Email" id="c-Number"
-                                       required>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                                <label for="c-Number">Fax:</label>
-                                <input type="text" minlength="3" maxlength="30" placeholder="Fax" id="c-Number"
-                                       required>
-                            </div>
-                        </div>
                         <div class="col-sm-6 ">
-
-
                             <div class="form-group">
-                                <label for="pell">Type of Business</label>
+                                <label for="pell">Product Type</label>
                                 <select class="form-control" id="pell" required>
                                     <option value="">--select--</option>
-                                    <option value="1">Supplier (Goods / products)</option>
-                                    <option value="2">maintenance / Contracts</option>
-                                    <option value="3">Construction services</option>
-                                    <option value="4">Spare / Mechanical tools</option>
-                                    <option value="5">Public services</option>
-
-
+                                    <option value="1">products Type1</option>
+                                    <option value="2">products Type2</option>
+                                    <option value="3">products Type3</option>
+                                    <option value="4">products Type4</option>
+                                    <option value="5">products Type5</option>
                                 </select>
                             </div>
 
                             <div class="form-group">
-                                <label for="sel1">Nature of Business</label>
+                                <label for="sel1">product name</label>
                                 <select class="form-control" id="sel1" required>
                                     <option value="">--select--</option>
-                                    <option value="1">Manufactured</option>
-                                    <option value="2">Agent</option>
-                                    <option value="3">Distributor</option>
-                                    <option value="4">Other</option>
+                                    <option value="1">products name 1</option>
+                                    <option value="2">products name 2</option>
+                                    <option value="3">products name 3</option>
+                                    <option value="4">products name 4</option>
                                 </select>
+                            </div>
+                            <div class="add_to_this"></div>
+                            <div>
+                                <button class="dd btn btn-primary" type="button" onclick="handler()">Add another product </button>
                             </div>
                             <h6>Upload file:</h6>
                             <div class="input-group">
@@ -448,6 +432,7 @@
                                 <textarea class="form-control" rows="5" id="comment" placeholder="Your Nots"></textarea>
                             </div>
                         </div>
+
                         <div class="col-xs-12">
                             <div class="text-center">
                                 <button type="submit" class="btn btn-primary">Send</button>
@@ -455,6 +440,7 @@
                         </div>
                     </div>
                 </form>
+
 
             </div>
         </div>
@@ -467,6 +453,32 @@
 
 
 <script type="text/javascript">
+    function handler() {
+        $('.add_to_this').append(function() {
+        return $('<div class="form-group">\n' +
+            '                                <label for="pell">Product Type</label>\n' +
+            '                                <select class="form-control" id="pell" required>\n' +
+            '                                    <option value="">--select--</option>\n' +
+            '                                    <option value="1">products Type1</option>\n' +
+            '                                    <option value="2">products Type2</option>\n' +
+            '                                    <option value="3">products Type3</option>\n' +
+            '                                    <option value="4">products Type4</option>\n' +
+            '                                    <option value="5">products Type5</option>\n' +
+            '                                </select>\n' +
+            '                            </div>\n' +
+            '\n' +
+            '                            <div class="form-group">\n' +
+            '                                <label for="sel1">product name</label>\n' +
+            '                                <select class="form-control" id="sel1" required>\n' +
+            '                                    <option value="">--select--</option>\n' +
+            '                                    <option value="1">products Name1</option>\n' +
+            '                                    <option value="2">products Name2</option>\n' +
+            '                                    <option value="3">products Name3</option>\n' +
+            '                                    <option value="4">products Name4</option>\n' +
+            '                                </select>\n' +
+            '                            </div>');
+    }) }
+
     jQuery(document).ready(function () {
         var styleOutPut = "";
         if (/MSIE 10/i.test(navigator.userAgent) || /MSIE 9/i.test(navigator.userAgent) || /rv:11.0/i.test(navigator.userAgent) || /Edge\/\d./i.test(navigator.userAgent)) {
