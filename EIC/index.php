@@ -752,7 +752,7 @@
                                                             <span class="item-hover-icon"><i
                                                                     class="fa fa-search"></i></span>
                                                         </a>
-                                                        <a href="portfolio/all-appear/">
+                                                        <a href="">
                                                             <span class="item-hover-icon"><i
                                                                     class="fa fa-link"></i></span>
                                                         </a>
@@ -760,11 +760,11 @@
                                                     <div class="portfolio-item-body">
                                                         <div class="name">All appear</div>
                                                         <div class="under-name"><a
-                                                                href="portfolio_category/business/"
+                                                                href="#"
                                                                 rel="tag">Business</a>, <a
-                                                                href="portfolio_category/marketing/"
+                                                                href="#"
                                                                 rel="tag">Marketing</a>, <a
-                                                                href="portfolio_category/analytics/"
+                                                                href="#"
                                                                 rel="tag">Analytics</a></div>
                                                     </div>
                                                 </div>
@@ -940,75 +940,7 @@
                                             </div>
                                         </div>
                                     </div>
-
-                                    <div>
-                                        <div class="col-xs-6 item pix-no-space broker office teams  pix-puzzle-thumb-xy"
-                                             id="post-7617">
-                                            <div class="portfolio-item">
-                                                <div class="portfolio-image">
-                                                    <a href="portfolio/isotope-gallery/"><img
-                                                            width="278" height="278"
-                                                            src="images/port/9.jpg"
-                                                            class="img-responsive wp-post-image" alt=""/></a>
-                                                    <div class="gallery-item-hover">
-                                                        <a href="images/port/9.jpg"
-                                                           class="fancybox">
-                                                            <span class="item-hover-icon"><i
-                                                                    class="fa fa-search"></i></span>
-                                                        </a>
-                                                        <a href="portfolio/isotope-gallery/">
-                                                            <span class="item-hover-icon"><i
-                                                                    class="fa fa-link"></i></span>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-item-body">
-                                                        <div class="name">Isotope Gallery</div>
-                                                        <div class="under-name"><a
-                                                                href="portfolio_category/broker/"
-                                                                rel="tag">Broker</a>, <a
-                                                                href="portfolio_category/office/"
-                                                                rel="tag">Office</a>, <a
-                                                                href="portfolio_category/teams/"
-                                                                rel="tag">Team</a></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div>
-                                        <div class="col-xs-6 item pix-no-space design broker  pix-puzzle-thumb-xy"
-                                             id="post-7832">
-                                            <div class="portfolio-item">
-                                                <div class="portfolio-image">
-                                                    <a href="portfolio/isotope-gallery-2/"><img
-                                                            width="278" height="278"
-                                                            src="images/port/10.jpg"
-                                                            class="img-responsive wp-post-image" alt=""/></a>
-                                                    <div class="gallery-item-hover">
-                                                        <a href="images/port/10.jpg"
-                                                           class="fancybox">
-                                                            <span class="item-hover-icon"><i
-                                                                    class="fa fa-search"></i></span>
-                                                        </a>
-                                                        <a href="portfolio/isotope-gallery-2/">
-                                                            <span class="item-hover-icon"><i
-                                                                    class="fa fa-link"></i></span>
-                                                        </a>
-                                                    </div>
-                                                    <div class="portfolio-item-body">
-                                                        <div class="name">Isotope Gallery</div>
-                                                        <div class="under-name"><a
-                                                                href="portfolio_category/design/"
-                                                                rel="tag">Design</a>, <a
-                                                                href="portfolio_category/broker/"
-                                                                rel="tag">Broker</a></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
+                                    
                                     <div>
                                         <div class="col-xs-6 item pix-no-space design broker  pix-puzzle-thumb-xy"
                                              id="post-10353">

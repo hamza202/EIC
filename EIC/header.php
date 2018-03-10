@@ -1,3 +1,5 @@
+
+
 <!-- ========================== -->
 <!-- SEARCH MODAL  -->
 <!-- ========================== -->
@@ -81,7 +83,7 @@
         </li>
         <li id="menu-item-11681"
             class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-11681 dropdown"><a
-                    href="">media center</a><span
+                    href="media-center.php">media center</a><span
                     class="menu-parent-link"></span></li>
         <li id="menu-item-11681"
             class="menu-item menu-item-type-post_type menu-item-object-forum menu-item-11681 dropdown"><a
@@ -93,7 +95,7 @@
                 class="menu-parent-link"></span></li>
         <li id="menu-item-3234"
             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3234 dropdown"><a
-                href=""> CAREERS </a><span
+                href="ccareers.php"> CAREERS </a><span
                 class="menu-parent-link"></span>
         </li>
         <li id="menu-item-3234"
@@ -112,6 +114,7 @@
 <!-- ========================== -->
 
 <div class="wrap-fixed-menu" id="fixedMenu">
+
     <nav class="fullscreen-center-menu">
 
         <button type="button" class="fullmenu-close"><i class="icon_close"></i></button>
@@ -125,8 +128,11 @@
                     <a href="#"><span>NEWS & EVENTS<i class="arrow_carrot-right"></i></span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8063 has-children">
-                    <a href="#"><span>CAREERS<i class="arrow_carrot-right"></i></span></a>
+                    <a href=""><span>CAREERS<i class="arrow_carrot-right"></i></span></a>
                     <ul class="dl-submenu">
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page   ">
+                            <a href="ccareers.php"><span>CAREERS<i class="arrow_carrot-right"></i></span></a>
+                        </li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page   ">
                             <a href="#"><span>TRAINING PROGRAM<i class="arrow_carrot-right"></i></span></a>
                         </li>
@@ -158,6 +164,24 @@
 
 	header1--trans-black--menu-marker-arrow-normal--1-244-screen-0-1-1">
     <div class="container container-boxed-width">
+        <section class="top-bars">
+            <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <i class="fa fa-phone"></i> Call Us: +966 13 8100 0280
+                </div>
+                <div class="col-sm-9">
+                    <ul class="list-inline">
+                        <li><a href="index.php">Home</a></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+            </div>
+        </section>
         <nav id="nav" class="navbar">
             <div class="container ">
                 <div class="header-navibox-1" style="padding: 9px 0 !important;">
@@ -281,7 +305,7 @@
                             </ul>
                         </li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3233 dropdown">
-                            <a href="">Media Center</a>
+                            <a href="media-center.php">Media Center</a>
                         </li>
 
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3234 dropdown">

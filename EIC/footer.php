@@ -70,7 +70,7 @@
                                                                             class="fa flaticon-phone-call "></span>
                                                                     </div>
                                                                     <h5>Phones</h5>
-                                                                    <p>+966 13 8100 0280<br>
+                                                                    <p><span>Tell</span> +966 13 8100 0280<br>
                                                                         <span>Fax</span> +966 13 810 0265</p>
                                                                 </article>
                                                             </div>
@@ -188,9 +188,7 @@
                                             <div class="wpb_gmaps_widget wpb_content_element">
                                                 <div class="wpb_wrapper">
                                                     <div class="wpb_map_wraper">
-                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6304.829986131271!2d-122.4746968033092!3d37.80374752160443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808586e6302615a1%3A0x86bd130251757c00!2sStorey+Ave%2C+San+Francisco%2C+CA+94129!5e0!3m2!1sen!2sus!4v1435826432051"
-                                                                width="600" height="450" frameborder="0"
-                                                                style="border:0" allowfullscreen></iframe>
+                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d228918.99543009282!2d49.98049378689096!3d26.29866074412882!3m2!1i1024!2i768!4f13.1!2m1!1sElectrical+Industries+Co%2C+King+Fahd+Road%2C+Dammam%2C+Eastern+Province%2C+Saudi+Arabia!5e0!3m2!1sen!2sus!4v1520677570761" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                                                     </div>
                                                 </div>
                                             </div>
